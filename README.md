@@ -30,10 +30,16 @@
 
 **Nachbedingung/Ergebnis:** Der Diagnostiker/die Diagnostikerin wurde über die Abweichung informiert und kann den Test abbrechen
 
-**Standardablauf: Das System überwacht kontinuierlich die Pulswerte.
+**Standardablauf:** Das System überwacht kontinuierlich die Pulswerte.
 Sobald eine Abweichung erkannt wird, wird eine Warnung generiert.
 Die Warnung wird auf dem Bildschirm des Diagnostikers angezeigt.
 
 **Änderungsgeschichte:** 0.01; 17.03.2025; Sophie Zembacher
+
+## UC 1.06
+
+**Name und Identifikationsnummer:** UC 1.06 - Anstrengungsbewertung mittels BORG-Skala durch Proband:in 
+**Beschreibung:** Der Proband bewertet die empfundene Anstregung nach dem Leistungstest mit der BORG-Skala 
+**Beteiligte 
 
 
